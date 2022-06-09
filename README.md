@@ -1,1 +1,1 @@
-# cinema-app
+# Cinema App (to be continued ...)
